@@ -10,10 +10,14 @@ This loop checks each process's remaining burst time. If it is zero, the count v
 The input required for the provided Round Robin scheduling code is as follows:
 
 -Total Processes (n): The user is prompted to enter the total number of processes that should be scheduled. 
+
 -Arrival time (at[]): The time at which the process enters the ready queue. 
+
 -Burst time (bt[]): The time it takes for the process to complete its execution. 
+
 -Time Quantum:The user specifies the time quantum, which is the maximum time each process can run in a single turn during Round Robin scheduling.
 
 <ins>_**Output**_</ins>
 The output of the provided Round Robin scheduling code will display the turnaround time and waiting time for each process  and the final result:
+
 ![Roundrobin_output](https://github.com/simoon06/Roundrobin/assets/139492391/338c14ad-16fc-424f-932e-efbd23f7d885)
