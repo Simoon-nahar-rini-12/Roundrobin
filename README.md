@@ -16,4 +16,4 @@ The input required for the provided Round Robin scheduling code is as follows:
 
 <ins>_**Output**_</ins>
 The output of the provided Round Robin scheduling code will display the turnaround time and waiting time for each process  and the final result:
-!
+![Roundrobin_output](https://github.com/simoon06/Roundrobin/assets/139492391/338c14ad-16fc-424f-932e-efbd23f7d885)
